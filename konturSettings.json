@@ -1,0 +1,11 @@
+{
+  "SearchParameters": {
+    // Основная информация
+    "baseInfo": {
+      "url": "https://restapi.credinform.ru/api/CompanyInformation/BasicInformation?ApiVersion=1.9"
+    },
+    
+
+    
+  }
+}
